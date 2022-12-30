@@ -3,4 +3,4 @@ This is a simple example code for, How to create ESP-IDF custom project config
 
 For detail tutorial click on below Medium link, And like if find this usefull, And follow for more tutorial like this
 
-[Click to learn How create custom project config](https://medium.com/) 
+[Click to learn How create custom project config](https://medium.com/@bhautik.markeye/esp-idf-configuration-how-to-add-custom-configuration-in-project-config-728f81b8d0d8) 
