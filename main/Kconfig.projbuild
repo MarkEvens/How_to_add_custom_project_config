@@ -1,0 +1,21 @@
+menu "User Configuration String"
+config USER_NAME
+        string "user name"
+        default "Mark"
+        help
+            Type a user name that you want to use in code
+endmenu
+menu "User Configuration Bool"
+config IS_USER_NAME_MARK
+        bool "user name is mark?"
+        help
+            Type a user name that you want to use in code
+endmenu
+menu "User Configuration Int"
+config TOTAL_USERS
+        int "total users"
+        default 1
+        range 1 5
+        help
+            Type how many user using this
+endmenu
